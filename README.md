@@ -39,3 +39,9 @@ Contributions are welcome! Feel free to open issues or pull requests for any imp
 
 - This app is built using Android SDK and NFC features.
 - Inspiration and guidance from various online tutorials and documentation.
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/muteeburrehman/nfc-app-android.git
