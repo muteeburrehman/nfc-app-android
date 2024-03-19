@@ -2,6 +2,8 @@
 
 This is a simple Android application that demonstrates reading and writing NFC tags using the NFC (Near Field Communication) technology.
 
+![photo_2024-03-19_16-34-29](https://github.com/muteeburrehman/nfc-app-android/assets/139336141/23aef738-a8fa-41c4-aa83-f70daee1f972)
+
 
 ## Features
 
